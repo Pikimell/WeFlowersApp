@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/WeFlowersApp/static/css/main.6c8245a5.css",
-    "main.js": "/WeFlowersApp/static/js/main.657d384e.js",
+    "main.js": "/WeFlowersApp/static/js/main.5878f70c.js",
     "index.html": "/WeFlowersApp/index.html",
     "main.6c8245a5.css.map": "/WeFlowersApp/static/css/main.6c8245a5.css.map",
-    "main.657d384e.js.map": "/WeFlowersApp/static/js/main.657d384e.js.map"
+    "main.5878f70c.js.map": "/WeFlowersApp/static/js/main.5878f70c.js.map"
   },
   "entrypoints": [
     "static/css/main.6c8245a5.css",
-    "static/js/main.657d384e.js"
+    "static/js/main.5878f70c.js"
   ]
 }
